@@ -5,7 +5,7 @@ A Representation-Optimization Dichotomy for Lie-Algebraic Policy Optimization
 Code for the experiments in:
 
 "A Representation-Optimization Dichotomy for Lie-Algebraic Policy Optimization"
-Sooraj K.C. and Vivek Mishra, Alliance University
+Sooraj K.C. and Vivek Mishra
 Submitted to SIAM Journal on Mathematics of Data Science (SIMODS)
 
 ---
@@ -121,4 +121,4 @@ you can reference the SIMODS submission.
 ## Contact
 
 Sooraj K.C. -- ksoorajPHD23@sam.alliance.edu.in
-Department of Pure and Applied Mathematics, Alliance University, Bengaluru, India
+
